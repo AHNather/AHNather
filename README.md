@@ -1,6 +1,6 @@
 <p align="center">
- <a href="https://github.com/AHNather/Ahmad-Munir.png/blob/main/Beige%20%26%20Black%20Geometric%20Technology%20LinkedIn%20Banner%20(2).png">
-    <img src="https://github.com/AHNather/Ahmad-Munir.png/blob/main/Beige%20&%20Black%20Geometric%20Technology%20LinkedIn%20Banner%20(2).png?raw=true" alt="Banner" />
+ <a href="https://github.com/AHNather/Ahmad-Munir.png/blob/main/Beige%20%26%20Black%20Geometric%20Technology%20LinkedIn%20Banner%20(3).png">
+    <img src="https://github.com/AHNather/Ahmad-Munir.png/blob/main/Beige%20&%20Black%20Geometric%20Technology%20LinkedIn%20Banner%20(3).png?raw=true" alt="Banner" />
   </a>
 </p>
 <h1 align="center">Hi 👋, I'm Ahmed Munir</h1>
