@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://github.com/AHNather/Ahmad-Munir.png/blob/main/Beige%20%26%20Black%20Geometric%20Technology%20LinkedIn%20Banner.png">
+ <a href="[https://github.com/AHNather/Ahmad-Munir.png/blob/main/Beige%20%26%20Black%20Geometric%20Technology%20LinkedIn%20Banner.png](https://github.com/AHNather/Ahmad-Munir.png/blob/main/Beige%20%26%20Black%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png)">
     <img src="https://github.com/AHNather/Ahmad-Munir.png/blob/main/Beige%20&%20Black%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png?raw=true" alt="Banner" />
   </a>
 </p>
