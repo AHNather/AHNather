@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://github.com/AHNather/Ahmad-Munir.png/blob/main/Beige%20&%20Black%20Geometric%20Technology%20LinkedIn%20Banner.png?raw=true" alt="Banner" />
+ <a href="https://github.com/AHNather/Ahmad-Munir.png/blob/main/Beige%20%26%20Black%20Geometric%20Technology%20LinkedIn%20Banner.png">
+    <img src="https://github.com/AHNather/Ahmad-Munir.png/blob/main/Beige%20&%20Black%20Geometric%20Technology%20LinkedIn%20Banner.png?raw=true" alt="Banner" />
+  </a>
 </p>
 <h1 align="center">Hi 👋, I'm Ahmed Munir</h1>
 <h3 align="center">A dedicated Artificial Inteligence Specialist</h3>
