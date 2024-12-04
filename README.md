@@ -3,12 +3,12 @@
     <img src="https://github.com/AHNather/Ahmad-Munir.png/blob/main/Beige%20&%20Black%20Geometric%20Technology%20LinkedIn%20Banner%20(3).png?raw=true" alt="Banner" />
   </a>
 </p>
-<h1 align="center">Hi 👋, I'm Ahmed Munir</h1>
+<h1 align="center">Hi 👋, I'm Ahmad Munir</h1>
 <h3 align="center">A dedicated Artificial Inteligence Specialist</h3>
 
-- 🌱 I’m currently enrolled in the **IBM Data Analyst Professional Certificate**
+- 🌱 I’m recently graduated from **Saudi Digital Academy BI Bootcamp**
 
-- 💬 Ask me about **AI, ML, DL**
+- 💬 Ask me about **AI, ML, DL, BI**
 
 - 📫 How to reach me **ahnather2@gmail.com**
 
